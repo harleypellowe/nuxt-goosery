@@ -1,0 +1,5 @@
+<template>
+  <section class="section">
+    <h1 class="title">Games</h1>
+  </section>
+</template>
