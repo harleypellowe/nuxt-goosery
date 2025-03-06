@@ -1,0 +1,1 @@
+import{m as t,g as s,j as o,l as c}from"./DXyYbY9D.js";const n={},a={class:"section"};function r(l,e){return c(),s("section",a,e[0]||(e[0]=[o("h1",{class:"title"},"About",-1)]))}const i=t(n,[["render",r]]);export{i as default};
