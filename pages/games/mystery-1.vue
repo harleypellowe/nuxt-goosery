@@ -9,5 +9,12 @@ onMounted(() => {
 </script>
 
 <template>
-  <iframe id="squiffy-iframe" src="/squiffy/mystery-1/index.html" width="100%" height="100%" />
+  <iframe id="squiffy-iframe" src="/squiffy/mystery-1/index.html" />
 </template>
+
+<style scoped>
+iframe {
+  width: 100%;
+  border: none;
+}
+</style>
